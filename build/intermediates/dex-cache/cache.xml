@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ml\mobilesafe1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\ml\mobilesafe1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_4bff0a3e9e735a72c16349d0b7aaaa3ff36a4cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ml\mobilesafe1-master\app\libs\RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="E:\ml\mobilesafe1-master\app\build\intermediates\pre-dexed\debug\RootTools_dd40f849da9cc3a586e7ded33840bef112545059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ml\mobilesafe1-master\app\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="E:\ml\mobilesafe1-master\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_dbbab89dc12efff947132c29e0e10b2002326294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ml\mobilesafe1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\ml\mobilesafe1-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_5f8e551834de24e371e53e1a50602e7c787ceae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kk\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\ml\mobilesafe1-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_bdc0af6e3a9d7529aaf427b61dad7fdce2b6876c.jar" />
+    </item>
+
+</items>

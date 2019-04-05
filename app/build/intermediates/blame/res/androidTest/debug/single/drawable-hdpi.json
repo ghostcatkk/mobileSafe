@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sms_reduction.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sms_reduction.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\delete_data.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\delete_data.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\broom_left.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\broom_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\correction_flow_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\correction_flow_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\wipedata.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\wipedata.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\inverse_btn_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\inverse_btn_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\blue_right_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\blue_right_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\phoneicon_yellow_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\phoneicon_yellow_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\broom_center.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\broom_center.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\rightarrow_blue.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\rightarrow_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\ic_default.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\security_phone.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\security_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\applock_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\applock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\finish_cleancache_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\finish_cleancache_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\delete.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\cacheclean_trashbin_close_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\cacheclean_trashbin_close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\smsbackup_buuton_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\smsbackup_buuton_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\finish_cleancache_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\finish_cleancache_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\correction_flow_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\correction_flow_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\lockscreen.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\lockscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\slide_view_green.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\slide_view_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\atools.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\atools.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\quickscan_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\quickscan_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add_blackname_btn_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add_blackname_btn_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\brightpurple_checkbox_c.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\brightpurple_checkbox_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\go_greenicon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\go_greenicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\toggle_btn_blue_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\toggle_btn_blue_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\taskmanager.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\taskmanager.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\clean_all_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\clean_all_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\alarm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\numbelongtoicon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\numbelongtoicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\recomand_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\recomand_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sim_bind_e.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sim_bind_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\operator_set_info_incon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\operator_set_info_incon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\no_blacknumbericon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\no_blacknumbericon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\delete_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sms_backup.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sms_backup.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\appunlock_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\appunlock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\inverse_btn_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\inverse_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\arrow_right.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\processmanager_showsysapps.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\processmanager_showsysapps.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\restart_scan_btn.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\restart_scan_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\callmsgsafe.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\callmsgsafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\contacticon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\contacticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add_btn_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\brightpurple_contact_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\brightpurple_contact_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\purplecircle.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\purplecircle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add_fromcontact_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add_fromcontact_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add_blackname_btn_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add_blackname_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\trojan.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\trojan.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\cancle_scan_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\cancle_scan_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\app.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sim_alarm_icon_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sim_alarm_icon_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\select_all_btn_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\select_all_btn_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\virusscan_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\virusscan_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\netmanager.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\netmanager.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\programoflock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\programoflock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\contact_et_left_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\contact_et_left_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\location_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\superman.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\superman.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sim_bind_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sim_bind_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\green_checkbox_c.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\green_checkbox_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\processmanagerlockscreen_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\processmanagerlockscreen_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\operator_finish_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\operator_finish_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\cleancache_finish.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\cleancache_finish.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\contact_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\contact_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sysoptimize.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sysoptimize.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\clean_process_btn_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\clean_process_btn_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\deleteicon_yellow_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\deleteicon_yellow_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\cachescan_righticon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\cachescan_righticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\broom_right.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\broom_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\switch_btn_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\switch_btn_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\numbelongto_et_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\numbelongto_et_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\safe.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\safe.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\traffic_red.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\traffic_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\scanning_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\scanning_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\select_all_btn_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\select_all_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\settingicon_white_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\settingicon_white_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\shareicon_white_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\shareicon_white_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\btn_search_numbelongto_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_search_numbelongto_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\location_icon_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\location_icon_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\coner_white_rec.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\coner_white_rec.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\cancle_scan_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\cancle_scan_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\clean_process_btn_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\clean_process_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\operator_spinner_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\operator_spinner_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add_btn_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add_btn_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\lock_screen_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\lock_screen_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\delete_data_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\delete_data_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\checkbox_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\checkbox_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sim_bind_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sim_bind_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\processmanager_setting_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\processmanager_setting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\traffic_green.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\traffic_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\lock.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\right_arrows_red.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\right_arrows_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\green_troggle_c.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\green_troggle_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\bg_home.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\bg_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\cacheclean_trashbin_open_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\cacheclean_trashbin_open_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\sim_alarm_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\sim_alarm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\add_fromcontact_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\add_fromcontact_p.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\settings.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\settingicon_yellow_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\settingicon_yellow_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\enterpsw_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\enterpsw_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\lock_screen_icon_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\lock_screen_icon_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\shareicon_yellow_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\shareicon_yellow_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\scan_complete.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\scan_complete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\clean_all_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\clean_all_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\clean_all_e.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\clean_all_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\btn_search_numbelongto_n.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_search_numbelongto_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\numofbelongto.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\numofbelongto.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\swtch_btn_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\swtch_btn_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\wifi_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\wifi_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\slide_view.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\slide_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi\\operator_finish_p.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\androidTest\\res\\drawable-hdpi\\operator_finish_p.png"
+    }
+]

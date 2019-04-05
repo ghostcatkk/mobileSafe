@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobilesafe1\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "E:\\ml\\mobilesafe1-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "E:\\ml\\mobilesafe1-master\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    }
+]

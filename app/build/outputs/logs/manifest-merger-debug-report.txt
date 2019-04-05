@@ -1,0 +1,417 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:2:1-232:12
+	package
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.0.0] E:\ml\mobilesafe1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml
+instrumentation
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:11:5-14:23
+	android:targetPackage
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:12:9-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:22:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:25:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:29:22-66
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:30:5-73
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:30:22-70
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:31:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:32:5-73
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:32:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:33:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:35:5-78
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:35:22-75
+uses-permission#android.permission.READ_SMS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:36:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:37:22-65
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:38:5-88
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:38:22-85
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:39:5-84
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:39:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:40:22-65
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:42:5-74
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:42:22-71
+application
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:44:5-230:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\ml\mobilesafe1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:48:9-41
+	android:allowBackup
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:46:9-35
+	android:icon
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:47:9-45
+	android:theme
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:49:9-40
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:45:9-48
+activity#cn.itcast.mobliesafe.HomeActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:51:13-61
+activity#cn.itcast.mobliesafe.chapter01.SplashActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:54:9-60:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:54:19-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:56:13-59:29
+action#android.intent.action.MAIN
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:58:27-74
+activity#cn.itcast.mobliesafe.chapter02.LostFindActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:62:9-65:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:63:13-75
+activity#cn.itcast.mobliesafe.chapter02.SetUp1Activity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:66:9-69:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:67:13-73
+activity#cn.itcast.mobliesafe.chapter02.SetUp2Activity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:70:9-73:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:71:13-73
+activity#cn.itcast.mobliesafe.chapter02.SetUp3Activity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:74:9-77:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:75:13-73
+activity#cn.itcast.mobliesafe.chapter02.SetUp4Activity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:78:9-81:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:79:13-73
+activity#cn.itcast.mobliesafe.chapter02.ContactSelectActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:82:9-85:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:83:13-80
+activity#cn.itcast.mobliesafe.chapter03.SecurityPhoneActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:87:9-90:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:88:13-80
+activity#cn.itcast.mobliesafe.chapter03.ContactSelectActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:91:9-94:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:92:13-80
+activity#cn.itcast.mobliesafe.chapter03.AddBlackNumberActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:95:9-98:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:96:13-81
+activity#cn.itcast.mobliesafe.chapter04.AppManagerActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:101:13-77
+activity#cn.itcast.mobliesafe.chapter09.AdvancedToolsActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:105:9-108:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:106:13-80
+activity#cn.itcast.mobliesafe.chapter09.AppLockActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:109:9-112:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:111:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:110:13-74
+activity#cn.itcast.mobliesafe.chapter09.NumBelongtoActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:113:9-116:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:114:13-78
+activity#cn.itcast.mobliesafe.chapter09.SMSBackupActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:117:9-120:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:119:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:118:13-76
+activity#cn.itcast.mobliesafe.chapter09.SMSReducitionActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:121:9-124:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:123:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:122:13-80
+activity#cn.itcast.mobliesafe.chapter09.EnterPswActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:125:9-129:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:128:13-49
+	android:launchMode
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:127:13-48
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:126:13-75
+activity#cn.itcast.mobliesafe.chapter10.SettingsActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:131:9-134:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:133:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:132:13-75
+activity#cn.itcast.mobliesafe.chapter05.VirusScanActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:136:9-139:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:138:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:137:13-76
+activity#cn.itcast.mobliesafe.chapter05.VirusScanSpeedActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:140:9-143:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:141:13-81
+activity#cn.itcast.mobliesafe.chapter07.ProcessManagerActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:145:9-148:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:147:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:146:13-81
+activity#cn.itcast.mobliesafe.chapter07.ProcessManagerSettingActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:149:9-152:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:151:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:150:13-88
+activity#cn.itcast.mobliesafe.chapter06.CacheClearListActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:154:9-157:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:156:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:155:13-81
+activity#cn.itcast.mobliesafe.chapter06.CleanCacheActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:158:9-161:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:160:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:159:13-77
+activity#cn.itcast.mobliesafe.chapter08.TrafficMonitoringActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:163:9-166:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:164:13-84
+activity#cn.itcast.mobliesafe.chapter08.OperatorSetActivity
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:167:9-170:20
+	android:screenOrientation
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:169:13-49
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:168:13-78
+receiver#cn.itcast.mobliesafe.chapter02.receiver.SmsLostFindReciver
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:172:9-176:20
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:172:19-92
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:173:13-175:29
+	android:priority
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:173:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:174:17-82
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:174:25-79
+receiver#cn.itcast.mobliesafe.chapter02.receiver.BootCompleteReciever
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:177:9-181:20
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:177:19-94
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:178:13-180:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:179:17-79
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:179:25-76
+receiver#cn.itcast.mobliesafe.chapter02.receiver.MyDeviceAdminReciever
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:183:9-195:20
+	android:label
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:186:13-56
+	android:permission
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:187:13-70
+	android:description
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:185:13-74
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:184:13-89
+meta-data#android.app.device_admin
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:188:13-190:63
+	android:resource
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:190:17-60
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:189:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:192:13-194:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:193:17-82
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:193:25-79
+receiver#cn.itcast.mobliesafe.chapter03.reciever.InterceptSmsReciever
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:197:9-201:20
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:197:19-94
+receiver#cn.itcast.mobliesafe.chapter03.reciever.InterceptCallReciever
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:203:9-208:20
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:203:19-95
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:204:13-207:29
+	android:priority
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:204:28-57
+action#android.intent.action.PHONE_STATE
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:205:17-76
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:205:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:206:17-82
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:206:25-79
+service#cn.itcast.mobliesafe.chapter02.service.GPSLocationService
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:211:9-214:19
+	android:persistent
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:213:13-38
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:212:13-85
+service#cn.itcast.mobliesafe.chapter09.service.AppLockService
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:216:9-219:19
+	android:persistent
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:218:13-38
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:217:13-81
+service#cn.itcast.mobliesafe.chapter07.service.AutoKillProcessService
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:221:9-224:19
+	android:persistent
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:223:13-38
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:222:13-89
+service#cn.itcast.mobliesafe.chapter08.service.TrafficMonitoringService
+ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:226:9-229:18
+	android:persistent
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:228:13-38
+	android:name
+		ADDED from E:\ml\mobilesafe1-master\app\src\main\AndroidManifest.xml:227:13-91
